@@ -29,8 +29,28 @@
 	- Prokaryotes
 		- No true nuclei
 		- 1-2 μm diameter
+		- Bacteria
 	- Eukaryotes
 		- True nuclei with DNA and organelles
 		- 10-40 μm diameter
 		- All animals, plants, fungi, etc.
 	- Karyo means nucleus
+- Cell Composition
+	- Atomic Composition
+		- 60% H
+		- 20% O
+		- 12% C
+		- 5% N
+		- P, S, Mg, Mg<sup>-12</sup>, Mn<sup>+2</sup>, etc.
+	- Molecular Composition
+		- 80% H<sub>2</sub>O
+		- 10% Protein
+		- 3% Nucleic acids
+		- 3% Carbohydrates
+		- 2% Lipids
+		- The rest is vitamins and other things
+		  
+Question 1
+You are given four test tubes, each tube contains cells from a different organism. One tube contains bacterial cells, one contains yeast cells (eukaryotic), one contains human cells and the last contains insect cells. Can you identify the cells from each tube if you are given a light microscope? Explain your answer.
+
+With a light microscope you could easily distinguish the prokaryotic bacteria from the other cell types. The prokaryotic bacteria would not have a nucleus, the other cell types would. The yeast cell wall would distinguish yeast cells from human and insect cells. Distinguishing human and insect cells with a simple microscope may not be possible, as the two are very similar

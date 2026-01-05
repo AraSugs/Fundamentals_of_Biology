@@ -10,11 +10,24 @@
 		- single, double, and triple
 			- more is stronger
 			- double and triple bonds are unsaturated and **can't rotate**
-			- Chirality
-				- Optical isomers - cannot be converted between one another without breaking bonds
-					- At a molecular level much of biology relies on interaction of complementary 3D surfaces
-					- No way to get a right hand into a left glove
-	- Hydrogen Bonds
+		- Chirality
+			-  Optical isomers - cannot be converted between one another without breaking bonds
+				- At a molecular level much of biology relies on interaction of complementary 3D surfaces
+				- No way to get a right hand into a left glove
+		- Sharing of Electrons
+			- Non polar bonds have equally shared electrons
+			- Polar bonds have unequally shared electrons
+			- Electronegativity - How greedy an atom is for an electron
+			- EX: in O-H, electrons spend more time by O
+			- Use δ to denote.
+		- Join monomers to form biological polymers.
+		- Strongest kind of bond in biological molecules
+	- Hydrogen Bonds (H Bond)
+		- Made possible by δ<sup>-</sup> (O, N) and δ<sup>+</sup> (H) in a polar bond.
+		- Important for proteins, nucleic acids, and carbohydrates.
+		- 1/20 the strength of a covalent bond, which means that some energetic molecules in the body can break these bonds.
+		- Hold together strands of DNA (like molecular velcro)
+		- Prevents things from dissolving in water.
 	- Ionic Bonds
 	- Van der waals bonds
 	- Hydrophobicity

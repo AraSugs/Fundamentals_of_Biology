@@ -1,0 +1,36 @@
+-  Levels of Organization
+	- Biosphere - All the world's ecosystems
+		- 10<sup>6</sup> species
+		- Insane levels of "species" of microbes
+		- 1 known biosphere - the earth
+	- Ecosystem - Interacting community of organisms
+		- EX: A forest
+	- Organism - 1 individual in a species
+		- How does the individual work - PHYSIOLOGY
+		- EX: Human
+	- Organ - Group of tissues organized to carry out a function
+		- EX: an eye
+	- Tissues - Homogeneous groups of cells
+		- EX: the retina
+	- Cells
+		- EX: Photoreceptor cell
+	- Organelles - Distinct components within a cell
+		- EX: mitochondria
+	- Molecules
+		- EX: ATP
+- History of Life
+	- 4.0 Bya - Earth cooled
+	- 3.7 Bya - First life (prokaryotes -> O<sub>2</sub>)
+	- 1.5 Bya - First nucleated cells (Eukaryotes)
+		- Fusion of 2 prokaryotic cells
+	- 0.5 Bya - multicellular organisms
+	- 0.005 Bya - humans
+- Types of Cells
+	- Prokaryotes
+		- No true nuclei
+		- 1-2 μm diameter
+	- Eukaryotes
+		- True nuclei with DNA and organelles
+		- 10-40 μm diameter
+		- All animals, plants, fungi, etc.
+	- Karyo means nucleus

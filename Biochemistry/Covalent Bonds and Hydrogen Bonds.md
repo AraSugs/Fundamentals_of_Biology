@@ -1,0 +1,26 @@
+- Forces
+	- Covalent Bonds
+		- Sharing electrons
+		- EX: methane CH<sub>4</sub> 
+		- Length of a covalent bond is 0.15-0.2 nm
+		- Covalent bonds don't break on their own under physiological conditions
+			- 83 kcal/mole to break C-C a
+			- Vibrational mode of a covalent bond at 25 C is about 0.6 kcal/mole
+		- bend, rotate, and stretch
+		- single, double, and triple
+			- more is stronger
+			- double and triple bonds are unsaturated and **can't rotate**
+			- Chirality
+				- Optical isomers - cannot be converted between one another without breaking bonds
+					- At a molecular level much of biology relies on interaction of complementary 3D surfaces
+					- No way to get a right hand into a left glove
+	- Hydrogen Bonds
+	- Ionic Bonds
+	- Van der waals bonds
+	- Hydrophobicity
+- Biomolecules
+	- Carbohydrates
+	- Proteins
+		- Enzymes - Biological catalysts that enable specific bonds to be broken or formed **under physiological conditions** 
+	- Nucleic Acids
+	- Lipids

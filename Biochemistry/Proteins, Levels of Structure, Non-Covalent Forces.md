@@ -1,0 +1,38 @@
+## Proteins
+- 55% of the dry mass of a cell
+- Function everywhere and do almost everywhere
+	- Form the structure of the cell
+	- Enzymes
+	- Immune system (cell defense)
+	- Cell movement
+	- etc.
+- Not hereditary information
+- Monomer - Amino Acid
+	- Central (alpha) carbon with 4 groups
+			-  R - Characteristic of each amino acid
+				- referred to as the side chain
+				- Can be charged, polar, or non-polar
+			-  H
+			- NH<sub>3</sub><sup>+</sup> 
+			- CO<sub>2</sub><sup>-</sup> 
+- Polymer of amino acid
+	- AA-AA-AA
+	- peptide ~<20 AA
+	- protein ~>20 AA
+		- This distinction is used loosely
+-  CO - NH = peptide bond
+- The peptide has a free amino end (N terminal) and a free carboxyl end (C terminal)
+	- This means they have a linear order
+	- AA closest to N terminal is added first and AA closest to C terminal is added last
+- 20 amino acids
+- Proteins can be 2 to >1000 AA
+- NOT read linearly
+	- folded and then read
+	- essential for function
+- Primary structure - the linear order of amino acids
+	- held together by covalent bonds
+- Secondary structure - linear chain folded up into alpha helices and/or beta sheets
+	- "a localized region of three dimensional structure that is stabilized by hydrogen bonds formed between the amine of one amino acid and the carboxyl of another amino acid"
+- Tertiary structure - more folding of alpha helices and beta sheets with many different types of bonds
+- Quaternary structure - Association between two different protein chains (tertiary)
+	- This association is normally not covalent

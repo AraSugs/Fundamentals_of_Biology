@@ -18,6 +18,7 @@
 		- EX: mitochondria
 	- Molecules
 		- EX: ATP
+- Life is most universal at lower levels of organization
 - History of Life
 	- 4.0 Bya - Earth cooled
 	- 3.7 Bya - First life (prokaryotes -> O<sub>2</sub>)

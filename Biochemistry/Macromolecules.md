@@ -6,7 +6,7 @@
 - Hydrolysis reactions break bonds between monomers
 	- m-O-m + H<sub>2</sub>O -> m-OH + OH-m
 - Many of the reactions within biochemistry involve condensation and hydrolysis reactions
-- Often these reactions require energy but  sometimes they release it.
+- Often these reactions require energy but sometimes they release it.
 
 ## Lipids
 - A class of macromolecule and essential for life
@@ -19,36 +19,6 @@
 	- Insulating nerve cells (like a wire)
 - Condensation reactions with lipids often synthesize triglycerides
 	- Formed from glycerol
-
-		CH<sub>2</sub>-CH-CH<sub>2</sub>
-		|   |  |  
-		OH  OH OH
-
-		+
-		3
-		*
-		OH
-		|	
-		C=O
-		|
-		(CH<sub>2</sub>)<sub>n</sub>        n=16-20
-
-		|
-		|
-		V
-
-		CH<sub>2</sub>-CH-CH<sub>2</sub>
-		|   |  |  
-		O   O  O
-		|	 |  |
-		C=O  X  X
-		|
-		(CH<sub>2</sub>)<sub>n</sub>        n=16-20
-  
-		+
-
-		H<sub>2</sub>O
-		
 	- Also a transesterification
 		- Ester bond formed in triglyceride 
 - Lipids are not strictly polymers (Not like the other macromolecules)
@@ -56,16 +26,6 @@
 - Lipids can be modified by replacing one of the fatty acid chains with something that is polar.
 	- This is primarily done in phospholipids
 	- Add a phosphate group
-		\_\_\_\_\_
-		| | |
-		| | |
-		(^Shorthand for a triglyceride)
-
-		\_\_\_\_PO<sub>4</sub><sup>-2</sup> 
-		| | 
-		| | 
-		(^Phospholipid)
-
 - Phosphate head is hydrophilic and polar
 - Carbon tails are nonpolar and hydrophobic.
 - Form lipid bilayers spontaneously (membrane)
@@ -77,10 +37,10 @@
 	- Saturated fats - The carbon chains have all single bonds and are completely filled with hydrogen
 		- Pack tightly - Chemical stability and a high melting point (Solid) (Bad for you)
 	- Unsaturated fats - Have a double bond at some location in the carbon chains
-		- Cis - Carbons are stuck to each other because the bonds that are available are on the same side. Double bonds cannot rotate so if it is synthesized like this cannot be changed
+		- Cis - Carbons are stuck to each other because the bonds that are available are on the same side. [[Covalent Bonds and Hydrogen Bonds|Double bonds cannot rotate]] so if it is synthesized like this cannot be changed
 			- pack poorly - kinked
 			- low melting point (generally good)
-		- Trans - The additional valencies are on opposite sides
+		- Trans - The additional valences are on opposite sides
 			- Pack well
 			- High melting point (generally bad)
 			- Not often found naturally
@@ -106,7 +66,70 @@
 - 25% of the dry mass of a cell
 - Energy source
 - Carbon source to build other molecules
-- Encode information (such as blood type)
+- Encode information
+	- Blood type (specific carbohydrates for each)
+		- Core molecule that is modified to form 4 blood groups
+			- O type blood only has the core, so anyone can receive O blood as they don't have an antibody against it
+				- Cool idea: if you can remove the extra groups, can you make any blood O-type blood?
 - Simple, polymeric structure
 	- (H-C-OH)<sub>n</sub>
 - The hydroxyl group makes them hydrophilic, in general
+- Monomer = monosaccharide
+	- Glucose
+- Dimers = disaccharide
+	- Sucrose
+- Poly = polysaccharide
+	- Cellulose
+- Glycosidic Bond - the bond  between two carbohydrate monomers
+- Carbohydrates can isomerize between ring and linear structure
+	- \* Isomerize means to change between formations with the same chemical formula
+- Can be modified, but generally remain hydrophilic
+	- Can gain phosphate groups or amino groups (EX)
+
+## Nucleic Acids
+- The monomer of nucleic acids is called a nucleotide.
+	- Phosphate, sugar, and a base
+- Polymer - RNA or DNA (polynucleotides)
+	- Sugar-phosphate backbones where the base hangs from the sugar
+	- Bases encode the information
+- Ribose/Deoxyribose
+	- Ribose in RNA and deoxyribose in DNA
+	- 5 carbon sugar (pentose)
+	- Carbons are numbered 1'-5'
+		- In DNA there is a hydrogen attached to the 2' carbon.
+		- In RNA there is a hydroxyl attached to the 2' carbon.
+			- This is why RNA is more reactive
+- DNA Bases
+	- Adenine
+	- Guanine
+	- Cytosine
+	- Thymine
+- RNA bases
+	- Adenine
+	- Guanine
+	- Cytosine
+	- Uracil
+- Two classes of bases
+	- Purines
+		- 2 Rings
+		- A, G
+	- Pyrimidines
+		- 1 Ring
+		- C, T, and U
+- 3' Hydroxyl of one nucleotide and the 5' hydroxyl undergo a condensation reaction to form a phosphodiester bond.
+- Nucleic acids encode information in a unique way.
+	- They have different ends and the bases have a linear order.
+	- Base nearest to the 5' end is the first added and the base nearest to the 3' end is the last added.
+	- Written 5'BBBBBBB3'
+		- ALWAYS WRITE IN 5' AND 3' END
+	- Genes can be about 100 to 10<sup>5</sup> bases long
+- DNA is usually double stranded via base pairing ([[Covalent Bonds and Hydrogen Bonds |Hydrogen Bonds]])
+	- Complementary
+	- A has a double hydrogen bond to T/U
+	- G has a triple hydrogen bond to C
+	- Important for replication and passage of information from one generation to the next
+	- Antiparallel arrangement
+- DNA Replication
+	- Antiparallel strands separate
+	- The two strands each create a replicate of its antiparallel strands for a total of four single strands and 2 copies of the original double stranded DNA
+- RNA is often single-stranded, but can form structures that are partially double-stranded
